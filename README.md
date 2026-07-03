@@ -1,7 +1,6 @@
 # Employee Information System
 
-A simple employee management system developed using PHP and MySQL.
-
+A simple employee management system built using PHP and MySQL for educational purposes.
 The project demonstrates basic database operations through a web interface.
 
 ## Features
@@ -17,20 +16,26 @@ The project demonstrates basic database operations through a web interface.
 
 ## Database
 The application uses a MySQL database named:
+
 ```
 EmpInfor
 ```
+
 with a table named:
+
 ```
 information
 ```
 
 ## Purpose
-
 This project was created to practice:
+
 - Connecting PHP to MySQL
 - Executing SQL queries
 - Handling HTML forms
 - Performing CRUD operations
+  
 ---
-This project was developed for educational purposes while learning PHP and MySQL.
+
+## Note
+This project is developed for learning purposes only.
