@@ -12,7 +12,7 @@ The project demonstrates basic database operations through a web interface.
 ## Technologies Used
 - PHP
 - MySQL
-- HTML5
+- HTML5 
 
 ## Database
 The application uses a MySQL database named:
