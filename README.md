@@ -39,3 +39,8 @@ This project was created to practice:
 
 ## Note
 This project is developed for learning purposes only.
+
+## Team Members
+- Raghad Oteef (GitHub: https://github.com/raghad-o)
+- Wejdan Hakami (GitHub: https://github.com/wejdan-h)
+- Aryam Zalaei (GitHub: https://github.com/Aryam-Z)
